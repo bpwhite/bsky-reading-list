@@ -12,4 +12,17 @@ https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syad066/73706
 Sigulinsky, C.L., Pfeiffer, R.L. and Jones, B.W., 2024. Retinal Connectomics: A Review. Annual Review of Vision Science, 10(1), pp.263-291.
 https://bryanwjones.com/2024/09/retinal-connectomics-a-review/
 
-https://phys.org/news/2024-10-wildfires-faster-dangerous-western.html
+Fel, T., Bethune, L., Lampinen, A.K., Serre, T. and Hermann, K., 2024. Understanding Visual Feature Reliance through the Lens of Complexity. arXiv preprint arXiv:2407.06076.
+https://arxiv.org/abs/2407.06076
+
+Pineau, R., Mock, K.E., Morris, J.L., Kraklow, V., Brunelle, A., Pageot, A., Ratcliff, W.C. and Gompert, Z., 2024. Mosaic of Somatic Mutations in the Ancient and Still-Living Aspen Clone, Pando. bioRxiv, pp.2024-10.
+https://www.biorxiv.org/content/10.1101/2024.10.19.619233v2.full.pdf
+
+Moi, D.A., Kaufmann, P.R., Riato, L., Romero, G.Q., Kratina, P., Teixeira de Mello, F. and Hughes, R.M., 2024. Habitat Diversity Mitigates the Impacts of Human Pressure on Stream Biodiversity. Global Change Biology, 30(10), p.e17534.
+https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17534?campaign=woletoc
+
+Burkhardt, P., Colgren, J., Medhus, A., Digel, L., Naumann, B., Soto-Angel, J.J., Nordmann, E.L., Sachkova, M.Y. and Kittelmann, M., 2023. Syncytial nerve net in a ctenophore adds insights on the evolution of nervous systems. Science, 380(6642), pp.293-297.
+https://www.science.org/doi/10.1126/science.ade5645
+
+Sigulinsky, C.L., Pfeiffer, R.L. and Jones, B.W., 2024. Retinal Connectomics: A Review. Annual Review of Vision Science, 10(1), pp.263-291.
+https://www.annualreviews.org/content/journals/10.1146/annurev-vision-102122-110414
